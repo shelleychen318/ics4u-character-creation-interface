@@ -1,0 +1,3 @@
+shelley,Vampire,Male,none,none
+shellley,Witch,none,blue,healing spell
+duc,Witch,Female,blue,shield spell
